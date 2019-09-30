@@ -15,38 +15,11 @@
       <content type="file-editors">
         <state>
           <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file leaf-file-name="DivideEvenly.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly.java">
+            <file leaf-file-name="RandomGuess.java" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/../Chapter5/src/Assignments/RandomGuess.java">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="357">
-                    <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="CountByThree.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/Exercises/CountByThree.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="187">
-                    <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="CountByAnything.java" pinned="false" current-in-tab="false">
-              <entry file="file://$PROJECT_DIR$/src/Assesments/CountByAnything.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="153">
-                    <caret line="9" selection-start-line="9" selection-end-line="9" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file leaf-file-name="EvenEntryLoop.java" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/Assesments/EvenEntryLoop.java">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="425">
-                    <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+                  <state relative-caret-position="442">
+                    <caret line="27" selection-start-line="5" selection-end-line="27" />
                   </state>
                 </provider>
               </entry>
@@ -58,68 +31,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="OpenDoorGame.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assesments/OpenDoorGame.java">
+      <file leaf-file-name="FixDebugSix1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+            <state relative-caret-position="34">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomGuess.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Examples/RandomGuess.java">
+      <file leaf-file-name="FixDebugSix2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="292">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DivideEvenly2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly2.java">
+      <file leaf-file-name="FixDebugSix4.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountDown.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Examples/CountDown.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountByThrees.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assesments/CountByThrees.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestScoreStatistics.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Assesments/TestScoreStatistics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestScoreStatisticsInClass.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Assesments/TestScoreStatisticsInClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            <state relative-caret-position="360">
+              <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -132,6 +66,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -148,6 +85,11 @@
         <option value="$PROJECT_DIR$/src/Assesments/EvenEntryLoop.java" />
         <option value="$PROJECT_DIR$/src/Assesments/TestScoreStatistics.java" />
         <option value="$PROJECT_DIR$/src/Assesments/TestScoreStatisticsInClass.java" />
+        <option value="$PROJECT_DIR$/src/Assesments/RandomGuess3.java" />
+        <option value="$PROJECT_DIR$/src/Debugging/FixDebugSix1.java" />
+        <option value="$PROJECT_DIR$/src/Debugging/FixDebugSix2.java" />
+        <option value="$PROJECT_DIR$/src/Debugging/FixDebugSix3.java" />
+        <option value="$PROJECT_DIR$/src/Debugging/FixDebugSix4.java" />
       </list>
     </option>
   </component>
@@ -162,47 +104,41 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Chapter 6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter 6" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter-6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter-6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Chapter 6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter 6" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter-6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter-6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Chapter 6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter 6" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter-6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter-6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Assesments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Chapter 6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter 6" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter-6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Chapter-6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Chapter 6" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Chapter 6" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Debugging" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chapter5/src/Examples/AgeInsultGenerator.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chapter5/src/Assignments/RandomGuess.java" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
@@ -217,9 +153,42 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestScoreStatistics">
-    <configuration name="CountByAnything" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assesments.CountByAnything" />
+  <component name="RunManager" selected="Application.FixDebugSix4">
+    <configuration name="FixDebugSix1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Debugging.FixDebugSix1" />
+      <module name="Chapter 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Debugging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FixDebugSix2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Debugging.FixDebugSix2" />
+      <module name="Chapter 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Debugging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FixDebugSix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Debugging.FixDebugSix4" />
+      <module name="Chapter 6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Debugging.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RandomGuess3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assesments.RandomGuess3" />
       <module name="Chapter 6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -229,41 +198,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="CountByThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises.CountByThree" />
-      <module name="Chapter 6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exercises.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="CountByThrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assesments.CountByThrees" />
-      <module name="Chapter 6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assesments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="EvenEntryLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assesments.EvenEntryLoop" />
-      <module name="Chapter 6" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assesments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TestScoreStatistics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assesments.TestScoreStatistics" />
+    <configuration name="TestScoreStatisticsInClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assesments.TestScoreStatisticsInClass" />
       <module name="Chapter 6" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -315,19 +251,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CountByThree" />
-      <item itemvalue="Application.CountByThrees" />
-      <item itemvalue="Application.CountByAnything" />
-      <item itemvalue="Application.EvenEntryLoop" />
-      <item itemvalue="Application.TestScoreStatistics" />
+      <item itemvalue="Application.TestScoreStatisticsInClass" />
+      <item itemvalue="Application.RandomGuess3" />
+      <item itemvalue="Application.FixDebugSix1" />
+      <item itemvalue="Application.FixDebugSix2" />
+      <item itemvalue="Application.FixDebugSix4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestScoreStatistics" />
-        <item itemvalue="Application.EvenEntryLoop" />
-        <item itemvalue="Application.CountByThree" />
-        <item itemvalue="Application.CountByAnything" />
-        <item itemvalue="Application.CountByThrees" />
+        <item itemvalue="Application.FixDebugSix4" />
+        <item itemvalue="Application.FixDebugSix2" />
+        <item itemvalue="Application.FixDebugSix1" />
+        <item itemvalue="Application.RandomGuess3" />
+        <item itemvalue="Application.TestScoreStatisticsInClass" />
       </list>
     </recent_temporary>
   </component>
@@ -355,8 +291,8 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298292" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3298292" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -379,183 +315,105 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Assesments/OpenDoorGame.java">
+    <entry file="file://$PROJECT_DIR$/src/Assesments/RandomGuess3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/RandomGuess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="493">
+          <caret line="29" column="59" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/CountDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assesments/CountByThrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="1" lean-forward="true" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assesments/CountByAnything.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/CountByThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assesments/OpenDoorGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="58" lean-forward="true" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/RandomGuess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/CountByThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assesments/OpenDoorGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/Examples/RandomGuess.java" />
+    <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Examples/CountDown.java" />
+    <entry file="file://$PROJECT_DIR$/src/Assesments/CountByThrees.java" />
+    <entry file="file://$PROJECT_DIR$/src/Assesments/CountByAnything.java" />
+    <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly.java" />
+    <entry file="file://$PROJECT_DIR$/src/Exercises/CountByThree.java" />
+    <entry file="file://$PROJECT_DIR$/src/Assesments/OpenDoorGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/Examples/RandomGuess.java" />
+    <entry file="file://$PROJECT_DIR$/src/Exercises/CountByThree.java" />
+    <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly.java" />
     <entry file="file://$PROJECT_DIR$/../Chapter5/src/Examples/AgeInsultGenerator.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/TestFusedLoopTime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="38" column="3" selection-start-line="38" selection-start-column="3" selection-end-line="38" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/CountDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assesments/CountByThrees.java">
+    <entry file="file://$PROJECT_DIR$/src/Examples/TestFusedLoopTime.java" />
+    <entry file="file://$PROJECT_DIR$/src/Examples/CountDown.java" />
+    <entry file="file://$PROJECT_DIR$/src/Assesments/CountByThrees.java" />
+    <entry file="file://$PROJECT_DIR$/src/Assesments/CountByAnything.java" />
+    <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly.java" />
+    <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Exercises/CountByThree.java" />
+    <entry file="file://$PROJECT_DIR$/src/Assesments/OpenDoorGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/Examples/RandomGuess.java" />
+    <entry file="file://$PROJECT_DIR$/src/Assesments/EvenEntryLoop.java" />
+    <entry file="file://$PROJECT_DIR$/src/Assesments/TestScoreStatistics.java" />
+    <entry file="file://$PROJECT_DIR$/src/Assesments/TestScoreStatisticsInClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="1" selection-end-line="16" />
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assesments/CountByAnything.java">
+    <entry file="file://$PROJECT_DIR$/src/Assesments/RockPaperScisorsLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly.java">
+    <entry file="file://$PROJECT_DIR$/src/Assesments/RandomGuess3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/DivideEvenly2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercises/CountByThree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assesments/OpenDoorGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Examples/RandomGuess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="492">
+          <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assesments/EvenEntryLoop.java">
+    <entry file="file://$PROJECT_DIR$/../Chapter5/src/Assignments/RandomGuess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="442">
+          <caret line="27" selection-start-line="5" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assesments/TestScoreStatistics.java">
+    <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assesments/TestScoreStatisticsInClass.java">
+    <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="38" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+        <state relative-caret-position="34">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Debugging/FixDebugSix4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
         </state>
       </provider>
     </entry>
